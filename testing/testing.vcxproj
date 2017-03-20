@@ -27,9 +27,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{819bafb9-ed4b-4fa0-8519-bda180102b65}</ProjectGuid>
+    <ProjectGuid>{bd241032-5936-44e8-9dd2-5415c67c91d6}</ProjectGuid>
     <Keyword>Linux</Keyword>
-    <RootNamespace>cluster_pi</RootNamespace>
+    <RootNamespace>testing</RootNamespace>
     <MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
     <ApplicationType>Linux</ApplicationType>
     <ApplicationTypeRevision>1.0</ApplicationTypeRevision>
